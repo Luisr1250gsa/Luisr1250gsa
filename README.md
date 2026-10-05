@@ -18,9 +18,10 @@ generadas con IA y Athenea, su asistente con avatar y voz.
 `Flutter` · `Supabase` · `PostgreSQL` · `Claude API` · `MapLibre` · `CarPlay`
 *En desarrollo · próximamente en App Store.*
 
-**⏱️ ASIST·IA**
-SaaS de control horario y gestión de RRHH: fichaje con GPS, roles, informes
-en PDF y cumplimiento normativo (RD-ley 8/2019, RGPD).
+**⏱️ ASIST·IA** · [asist-ia.org](https://asist-ia.org)
+Control horario con IA para empresas españolas: fichaje con GPS,
+solicitudes, roles, informes en PDF, analítica de la operativa y
+cumplimiento normativo (RD-ley 8/2019, RGPD).
 `ASP.NET 8` · `Blazor` · `PostgreSQL` · `PWA` · *En desarrollo.*
 
 **📡 Radar IA Semanal**
@@ -66,8 +67,9 @@ together **18+ years in industry, the last 11 leading production**,
 
 Currently building **[MotoIberia](https://motoiberia.asist-ia.org)**, a
 motorcycle route app for Spain and Portugal with **CarPlay navigation
-designed for riders** (Flutter, Supabase, Claude API), and **ASIST·IA**, an
-HR and time-tracking SaaS (ASP.NET 8, Blazor, PostgreSQL). I also run
+designed for riders** (Flutter, Supabase, Claude API), and **[ASIST·IA](https://asist-ia.org)**,
+an AI-powered time-tracking and HR platform for Spanish companies (ASP.NET 8,
+Blazor, PostgreSQL). I also run
 AI-powered automations (n8n) and conversational assistants.
 
 I work with AI tools as a coordinated team, and I don't call anything done
