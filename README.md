@@ -2,8 +2,9 @@
 
 **Partner Digital y consultor de IA** · Valencia, España
 
-Combino tres cosas que no suelen ir juntas: **11 años dirigiendo producción
-industrial**, **desarrollo de software propio** y **más de 5 años de IA
+Combino tres cosas que no suelen ir juntas: **más de 18 años en la
+industria, los últimos 11 dirigiendo producción**, **desarrollo de software
+propio** y **más de 5 años de IA
 aplicada en proyectos reales**. No hago demos: construyo herramientas que
 funcionan en producción y coordino un equipo de asistentes de IA como si
 fuera un equipo de trabajo.
@@ -60,8 +61,8 @@ AsesoramientoAsistia@outlook.es
 ### 🇬🇧 In English
 
 **Digital Partner & AI consultant** based in Valencia, Spain. I bring
-together **11 years of industrial production management**, **custom software
-development** and **5+ years of hands-on AI in production**.
+together **18+ years in industry, the last 11 leading production**,
+**custom software development** and **5+ years of hands-on AI in production**.
 
 Currently building **[MotoIberia](https://motoiberia.asist-ia.org)**, a
 motorcycle route app for Spain and Portugal with **CarPlay navigation
